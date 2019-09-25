@@ -14,10 +14,8 @@ public class MyDb {
 			Class.forName("com.mysql.driver");
 			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/javawebapplication","root","");
 		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
