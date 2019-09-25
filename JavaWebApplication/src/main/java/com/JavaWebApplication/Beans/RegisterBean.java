@@ -6,9 +6,6 @@ public class RegisterBean {
 	private String email;
 	private String password;
 	
-	
-	
-	
 	public RegisterBean() {
 		super();
 	}
