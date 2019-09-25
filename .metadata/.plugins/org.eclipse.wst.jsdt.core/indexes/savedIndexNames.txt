@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/media/wr0ngway/526587ed-6a37-4f84-a507-4c088a9de288/Spring-Maven/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4171934162.index
+1213816220.index
+3339751711.index
+4071319254.index
+3457987174.index
+2355880881.index
+1966623803.index
+2726381732.index

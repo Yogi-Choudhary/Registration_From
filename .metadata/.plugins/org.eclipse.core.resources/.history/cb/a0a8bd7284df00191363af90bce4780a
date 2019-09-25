@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>Java Web Application</title>
+  </head>
+ 
+  <body>
+
+    <ul>
+      <li><a href="#home" class="active">Home</li>
+      <li><a href="#new">News</li>
+      <li><a href="#contact">Contact</li>
+      <li><a href="#about">About</li>
+    </ul>
+ 
+  </body>
+</html>

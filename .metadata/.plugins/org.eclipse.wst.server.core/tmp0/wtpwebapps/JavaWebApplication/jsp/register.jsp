@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+  <h1>Register Here</h1>
+    <!-- action="http://localhost:8080/JavaWebApplication/Register" -->
+    <form action="" method="post">
+    <pre>
+      <input type="text" name="name" placeholder="Enater your name"/>
+      
+      <input type="text" name="email" placeholder="Enater your email"/>
+      
+      <input type="password" name="password" placeholder="Enater your password"/>
+      
+      <input type="submit" value="SignUP"/>
+     </pre> 
+    </form>
+</body>
+</html>
+

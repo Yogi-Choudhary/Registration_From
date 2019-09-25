@@ -1,0 +1,10 @@
+
+Sep 25, 2019 17:15:20.94 NEW SESSION
+Sep 25, 2019 17:15:20.94 Created new window in existing browser session.
+Sep 25, 2019 17:42:33.61 Created new window in existing browser session.
+Sep 25, 2019 19:45:34.23 [21398:21398:0925/194534.232970:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Sep 25, 2019 19:45:37.26 Opening in existing browser session.
+Sep 25, 2019 19:56:24.23 [22258:22258:0925/195624.234462:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Sep 25, 2019 19:56:27.71 Opening in existing browser session.
+Sep 25, 2019 20:15:10.71 [23301:23301:0925/201510.713687:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Sep 25, 2019 20:15:19.25 Opening in existing browser session.

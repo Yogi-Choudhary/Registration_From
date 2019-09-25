@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/media/wr0ngway/526587ed-6a37-4f84-a507-4c088a9de288/Spring-Maven/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1966623803.index
+/JavaWebApplication/src/main/java
+/media/wr0ngway/526587ed-6a37-4f84-a507-4c088a9de288/Spring-Maven/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4171934162.index
+/JavaWebApplication/src/main/resources

@@ -1,0 +1,25 @@
+package com.JavaWebApplication.Model;
+
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class UserDB {
+	String s1 = null;
+	
+	public String insertUser(String name, String email, String password) {
+		
+		MyDb db = new MyDb();
+		Connection con = db.getCon();
+		try {
+			Statement stmt = con.createStatement();
+			stmt.executeQuery("insert into register(name,email,password) values('"+name+"','"+email+"','"+password+"')");
+			s1 = "Data inserted";
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return s1;
+	}
+
+}
